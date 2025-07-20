@@ -1,3 +1,6 @@
+![Banner](./banner.png)
+
+
 ## Hi there 👋
 
 Greetings, and welcome to my Github page! It is a pleasure to have you here. I’m Matthew, and I am an aspiring software developer from Houston, Texas. Since my introduction to programming in my junior year of highschool, I have been very passionate about the field and my innovative future in such. Since then, my incredible journey has consisted of intriguing challenges and learning moments when it has come to exploring various programming languages, frameworks, and tools. I look forward to the role I play in the world of programming, driving innovation through collaboration and creativity.
